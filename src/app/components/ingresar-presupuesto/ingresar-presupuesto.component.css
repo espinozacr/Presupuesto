@@ -1,0 +1,14 @@
+@media only screen and (max-width: 400px) {
+    input {
+        text-align: center;
+        
+    }
+}
+button {
+    width: 100%;
+    font-weight: 600;
+    font-family: 'Teko', sans-serif;
+}
+span {
+    text-transform: uppercase;
+}
